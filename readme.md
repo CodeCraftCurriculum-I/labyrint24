@@ -33,3 +33,7 @@ Det er ikke hensikten at du skal gjøre alle, men så mange du klarer.
 * Pass på at dersom spilleren forlater et brett og går inn i et annet, men så snur og går tilbake; at spilleren da kommer ut ved riktig dør.
 * Skap et bedre kamp system
 * Innfør XP (experiance points) med en meningsfylt integrering i spillet. 
+* Skap miljø elementer som påfører skade på spilleren dersom de kommer i kontakt (eksempel så er vegger å anse som miljø).
+* Vis NPC stats når de interagerer med spiller.
+* Sentrere spillet på skjermen.
+* Legg til en variasjon på Warcraft jukse koder som "There can be only one" og "Pot of gold."
